@@ -15,7 +15,7 @@ Content-Type: application/json
   port: 44959,
   host: "RQNDOM.aternos.me"
   username: "bot",
-  password: "optional password",
+  password: "123344",
   owner: "CandraMyName"
 }
 ```
